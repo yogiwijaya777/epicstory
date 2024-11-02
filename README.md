@@ -1,5 +1,5 @@
 # Epic Story
 
 Standard Ae
-NEXT + HONO
+React + Go
 Coolify + Hertzner
